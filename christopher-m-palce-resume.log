@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.13)  17 AUG 2015 01:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.13)  11 SEP 2015 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -54,7 +54,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
 ))
-No file christopher-m-palce-resume.aux.
+(./christopher-m-palce-resume.aux)
 \openout1 = `christopher-m-palce-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -69,6 +69,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
@@ -108,7 +109,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 58--59
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 89--90
+Overfull \hbox (6.0pt too wide) in paragraph at lines 94--95
 [][][][][][][]  
  []
 
@@ -117,9 +118,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 89--90
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (./christopher-m-palce-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 996 strings out of 495028
- 13090 string characters out of 6181497
- 67782 words of memory out of 5000000
+ 998 strings out of 495028
+ 13152 string characters out of 6181497
+ 68782 words of memory out of 5000000
  4254 multiletter control sequences out of 15000+600000
  8253 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -130,7 +131,7 @@ public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
 .pfb>
-Output written on christopher-m-palce-resume.pdf (1 page, 76114 bytes).
+Output written on christopher-m-palce-resume.pdf (1 page, 79522 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
