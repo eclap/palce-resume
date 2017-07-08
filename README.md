@@ -11,7 +11,7 @@
 ## Compile tex file
 
 - Compile
-   ```pdflatex christopher-m-palce-resume.tex
+   ```pdflatex christopher-m-palce-resume.tex```
 
 - PDF file is now "christopher-m-palce-resume.pdf"
 
