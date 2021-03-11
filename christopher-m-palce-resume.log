@@ -1,27 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  24 APR 2020 08:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.11)  11 MAR 2021 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **christopher-m-palce-resume.tex
 (./christopher-m-palce-resume.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
 ) (./fullpage.sty
 Style Option FULLPAGE Version 2 as of 15 Dec 1988
 )
@@ -36,7 +36,7 @@ l.13 \usepackage
                 {color}
 ? 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -44,18 +44,25 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count185
+\l__pdf_internal_box=\box47
+)
 (./christopher-m-palce-resume.aux)
 \openout1 = `christopher-m-palce-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -64,17 +71,17 @@ LaTeX Font Info:    ... okay on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count87
-\scratchdimen=\dimen103
-\scratchbox=\box26
-\nofMPsegments=\count88
-\nofMParguments=\count89
-\everyMPshowfont=\toks14
-\MPscratchCnt=\count90
-\MPscratchDim=\dimen104
-\MPnumerator=\count91
-\makeMPintoPDFobject=\count92
-\everyMPtoPDFconversion=\toks15
+\scratchcounter=\count186
+\scratchdimen=\dimen139
+\scratchbox=\box48
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen140
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks16
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 40.
@@ -83,25 +90,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 48.
+(Font)              <12> on input line 49.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 48--49
-[][][][][][][]  
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 58--59
+Overfull \hbox (6.0pt too wide) in paragraph at lines 49--50
 [][][][][][][]  
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 90--91
+Overfull \hbox (6.0pt too wide) in paragraph at lines 79--80
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 89--90
 [][][][][][][]  
  []
 
@@ -110,23 +111,23 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 90--91
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (./christopher-m-palce-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 777 strings out of 494923
- 10012 string characters out of 6180741
- 62837 words of memory out of 5000000
- 4145 multiletter control sequences out of 15000+600000
- 8253 words of font info for 29 fonts, out of 8000000 for 9000
+ 983 strings out of 481252
+ 15351 string characters out of 5915888
+ 292357 words of memory out of 5000000
+ 17974 multiletter control sequences out of 15000+600000
+ 408384 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 22i,7n,21p,320b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
-.pfb>
-Output written on christopher-m-palce-resume.pdf (1 page, 78654 bytes).
+ 44i,7n,50p,320b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/christopher/.texlive2020/texmf-var/
+fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb>
+Output written on christopher-m-palce-resume.pdf (1 page, 72134 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
